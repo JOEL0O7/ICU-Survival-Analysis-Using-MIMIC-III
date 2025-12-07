@@ -531,11 +531,13 @@ km.plot_survival_function()
 ## 📊 Related Documentation
 
 For detailed exploratory data analysis including:
-- Demographic distributions and visualizations
-- ICU unit transfer patterns
-- Length of stay analysis
-- Insurance and socioeconomic factors
-- Diagnosis code exploration
+- **Mortality patterns** by age, diagnosis, care unit, admission type, and demographics
+- **Length of stay distributions** (ICU and hospital) with right-skewed patterns
+- **Age vs diagnosis relationships** showing distinct age profiles across conditions
+- **Care unit characteristics** and mortality rates by ICU type
+- **Statistical comparisons** (t-tests for age differences between survivors/non-survivors)
+- **Diagnosis category validation** via cross-tabulation with care unit assignments
+- **10+ visualizations** with clinical interpretations
 
 **See:** [EDA_README.md](./EDA_README.md)
 
