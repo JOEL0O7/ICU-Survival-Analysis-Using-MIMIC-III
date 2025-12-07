@@ -25,7 +25,7 @@ This project analyzes ICU patient survival using the publicly available MIMIC-II
 ## 🎯 Overview
 
 **Research Questions:**
-- What is the in-hospital vs post-discharge mortality rate for ICU patients?
+- What is the in-hospital mortality rate for ICU patients?
 - How do age, diagnosis, and ICU unit type affect survival?
 - Which factors are the strongest predictors of mortality?
 
